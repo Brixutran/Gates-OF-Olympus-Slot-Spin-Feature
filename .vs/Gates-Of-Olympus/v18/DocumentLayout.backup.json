@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\7\\GatesOlympus\\Gates-of-olympus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52779B5B-C65E-4056-BC17-4D660F665A03}|Gates-Of-Olympus-Casino\\Gates-Of-Olympus-Casino.csproj|d:\\githubnew\\7\\gatesolympus\\gates-of-olympus\\gates-of-olympus-casino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52779B5B-C65E-4056-BC17-4D660F665A03}|Gates-Of-Olympus-Casino\\Gates-Of-Olympus-Casino.csproj|solutionrelative:gates-of-olympus-casino\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52779B5B-C65E-4056-BC17-4D660F665A03}|Gates-Of-Olympus-Casino\\Gates-Of-Olympus-Casino.csproj|d:\\githubnew\\7\\gatesolympus\\gates-of-olympus\\gates-of-olympus-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52779B5B-C65E-4056-BC17-4D660F665A03}|Gates-Of-Olympus-Casino\\Gates-Of-Olympus-Casino.csproj|solutionrelative:gates-of-olympus-casino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\7\\GatesOlympus\\Gates-of-olympus\\Gates-Of-Olympus-Casino\\Program.cs",
+              "RelativeDocumentMoniker": "Gates-Of-Olympus-Casino\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\7\\GatesOlympus\\Gates-of-olympus\\Gates-Of-Olympus-Casino\\Program.cs",
+              "RelativeToolTip": "Gates-Of-Olympus-Casino\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:05:48.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\7\\GatesOlympus\\Gates-of-olympus\\Gates-Of-Olympus-Casino\\Form1.cs",
+              "RelativeDocumentMoniker": "Gates-Of-Olympus-Casino\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\7\\GatesOlympus\\Gates-of-olympus\\Gates-Of-Olympus-Casino\\Form1.cs [Design]",
+              "RelativeToolTip": "Gates-Of-Olympus-Casino\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T20:05:46.558Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
